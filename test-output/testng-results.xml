@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-23T17:19:07 IST" name="Default suite" finished-at="2023-12-23T17:19:09 IST" duration-ms="2199">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T17:19:07 IST" name="Default test" finished-at="2023-12-23T17:19:09 IST" duration-ms="2199">
+      <class name="Medicare_API_Endpoints_RestAssured.API_endpoints">
+        <test-method signature="allproducts()[pri:49, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:07 IST" name="allproducts" finished-at="2023-12-23T17:19:09 IST" duration-ms="1605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allproducts -->
+        <test-method signature="all_registered_users()[pri:50, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:09 IST" name="all_registered_users" finished-at="2023-12-23T17:19:09 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_registered_users -->
+        <test-method signature="add_products()[pri:51, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:09 IST" name="add_products" finished-at="2023-12-23T17:19:09 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_products -->
+        <test-method signature="update_products()[pri:52, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:09 IST" name="update_products" finished-at="2023-12-23T17:19:09 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_products -->
+        <test-method signature="update_products_status()[pri:53, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:09 IST" name="update_products_status" finished-at="2023-12-23T17:19:09 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_products_status -->
+        <test-method signature="delete_products()[pri:54, instance:Medicare_API_Endpoints_RestAssured.API_endpoints@75d4a5c2]" started-at="2023-12-23T17:19:09 IST" name="delete_products" finished-at="2023-12-23T17:19:09 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_products -->
+      </class> <!-- Medicare_API_Endpoints_RestAssured.API_endpoints -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
